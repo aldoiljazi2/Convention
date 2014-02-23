@@ -1,4 +1,6 @@
-# All Programming Languages
+# Coding Style
+
+## All Programming Languages
 
 - Use Tabs, like this (JavaScript example. There are spaces here, just ignore them):
 
@@ -8,7 +10,7 @@ if (condition) {
 }
 ```
 
-# JavaScript
+## JavaScript
 
 - Braces ALWAYS like this:
 
