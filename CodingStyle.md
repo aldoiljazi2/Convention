@@ -17,4 +17,10 @@ if (condition) {
 if (condition) {
 }
 ```
+
+- Spaces like this:
+
+```JavaScript
+if (condition) {
+}
 ```
