@@ -2,6 +2,12 @@
 
 ## All Programming Languages
 
+- Naming like this:
+
+```
+my_variable
+```
+
 - Use Tabs, like this (JavaScript example. There are spaces here, just ignore them):
 
 ```JavaScript
