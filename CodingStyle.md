@@ -8,5 +8,13 @@
 
 ```JavaScript
 if (condition) {
-  code to be executed if condition is true
 }
+```
+
+- Comments before a function or a condition.
+
+```JavaScript
+// Comment
+function() {
+}
+```
