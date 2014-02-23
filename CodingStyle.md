@@ -25,6 +25,7 @@ if (condition) {
 - Comments before a function or a condition.
 
 ```JavaScript
+// Comment
 if (condition) {
 }
 ```
