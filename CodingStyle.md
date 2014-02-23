@@ -43,7 +43,7 @@ if (condition) {
 }
 ```
 
-- Statements should be one variable per line.
+- Statements should be one per line.
 
 ```JavaScript
 var a = 0;
