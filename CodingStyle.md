@@ -54,7 +54,7 @@ if (condition) {
 }
 ```
 
-## Statement
+## Statements
 
 One per line.
 
