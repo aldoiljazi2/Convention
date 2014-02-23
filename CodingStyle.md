@@ -29,6 +29,9 @@ if (condition) {
 - Spaces like this:
 
 ```JavaScript
+var a = 0;
+var b = 1;
+
 if (condition) {
     document.write("1", "2", "3");
 }
