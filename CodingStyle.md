@@ -1,6 +1,12 @@
 # All Programming Languages
 
-- Use Tabs.
+- Use Tabs, like this (JavaScript example. There are spaces here, just ignore them):
+
+```JavaScript
+if (condition) {
+    document.write("1", "2", "3");
+}
+```
 
 # JavaScript
 
@@ -22,5 +28,6 @@ if (condition) {
 
 ```JavaScript
 if (condition) {
+    document.write("1", "2", "3");
 }
 ```
