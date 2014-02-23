@@ -1,10 +1,10 @@
 # Coding Style
 
-- Files
+## Files
 
 Each file should begin with a description of itself.
 
-- Naming
+## Naming
 
 Like this:
 
@@ -12,7 +12,7 @@ Like this:
 my_variable
 ```
 
-- Tabs
+## Tabs
 
 Use Tabs for identation, like this (JavaScript example. There are spaces here, just ignore them):
 
@@ -22,9 +22,7 @@ if (condition) {
 }
 ```
 
-## JavaScript
-
-- Comments
+## Comments
 
 Before a function or a condition.
 
@@ -34,7 +32,7 @@ if (condition) {
 }
 ```
 
-- Braces
+## Braces
 
 Always like this:
 
@@ -43,7 +41,7 @@ if (condition) {
 }
 ```
 
-- Spaces
+## Spaces
 
 Like this (not for identation):
 
@@ -56,7 +54,7 @@ if (condition) {
 }
 ```
 
-- Statement
+## Statement
 
 One per line.
 
