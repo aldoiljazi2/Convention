@@ -4,14 +4,6 @@
 
 Each file should begin with a description of itself.
 
-## Naming
-
-Like this:
-
-```
-my_variable
-```
-
 ## Tabs
 
 Use Tabs for identation, like this (JavaScript example. There are spaces here, just ignore them):
@@ -61,4 +53,12 @@ One per line.
 ```JavaScript
 var a = 0;
 var b = 1;
+```
+
+## Naming
+
+Like this:
+
+```
+my_variable
 ```
