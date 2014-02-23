@@ -4,7 +4,7 @@
 
 Each file should begin with a description of itself.
 
-- Naming:
+- Naming
 
 Like this:
 
