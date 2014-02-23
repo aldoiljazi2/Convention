@@ -12,14 +12,14 @@ if (condition) {
 
 ## JavaScript
 
-- Braces ALWAYS like this:
+- Comments before a function or a condition.
 
 ```JavaScript
 if (condition) {
 }
 ```
 
-- Comments before a function or a condition.
+- Braces ALWAYS like this:
 
 ```JavaScript
 if (condition) {
@@ -32,4 +32,11 @@ if (condition) {
 if (condition) {
     document.write("1", "2", "3");
 }
+```
+
+- Variables should be one variable per line.
+
+```JavaScript
+var a = 0;
+var b = 1;
 ```
