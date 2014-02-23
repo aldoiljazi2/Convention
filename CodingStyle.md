@@ -12,7 +12,9 @@ Each file should begin with a description of itself.
 my_variable
 ```
 
-- Use Tabs, like this (JavaScript example. There are spaces here, just ignore them):
+- Tabs
+
+Use Tabs for identation, like this (JavaScript example. There are spaces here, just ignore them):
 
 ```JavaScript
 if (condition) {
@@ -22,7 +24,9 @@ if (condition) {
 
 ## JavaScript
 
-- Comments before a function or a condition.
+- Comments
+
+Before a function or a condition.
 
 ```JavaScript
 // Comment
@@ -30,14 +34,18 @@ if (condition) {
 }
 ```
 
-- Braces ALWAYS like this:
+- Braces
+
+Always like this:
 
 ```JavaScript
 if (condition) {
 }
 ```
 
-- Spaces like this:
+- Spaces
+
+Like this (not for identation):
 
 ```JavaScript
 var a = 0;
@@ -48,7 +56,9 @@ if (condition) {
 }
 ```
 
-- Statements should be one per line.
+- Statement
+
+One per line.
 
 ```JavaScript
 var a = 0;
