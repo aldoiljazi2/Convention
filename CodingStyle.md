@@ -1,12 +1,12 @@
 # Coding Style
 
-## All Programming Languages
-
 - Files
 
 Each file should begin with a description of itself.
 
-- Naming like this:
+- Naming:
+
+Like this:
 
 ```
 my_variable
